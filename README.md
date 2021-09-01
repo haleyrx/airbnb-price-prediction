@@ -1,2 +1,2 @@
-# airbnb-price-prediction
+# Airbnb Price Prediction
  
